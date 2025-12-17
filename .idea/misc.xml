@@ -9,4 +9,8 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK" />
+  <component name="WebPackConfiguration">
+    <option name="mode" value="MANUAL" />
+    <option name="path" value="$PROJECT_DIR$/frontend/node_modules/@vue/cli-service/webpack.config.js" />
+  </component>
 </project>
