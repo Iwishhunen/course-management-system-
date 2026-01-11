@@ -1,0 +1,9 @@
+GET http://localhost:8080/admin/query?key=TVw33mzr&value=OsdFHUci&exactMatch=false
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-12-08T092821.404.html
+
+###
+

@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iwishhunen/course-management-system-.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "mitt": "^3.0.1",
+    "vue": "^3.5.25"
+  },
+  "devDependencies": {
+    "element-plus": "^2.12.0"
+  }
+}
